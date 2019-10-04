@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/diogo/Desktop/Multimedia-Computing-Project/openFrameworks/libs/openFrameworks/app/ofMainLoop.cpp \
+  /Users/diogo/Desktop/Multimedia-Computing-Project/openFrameworks/libs/openFrameworks/app/ofMainLoop.h \
+  /Users/diogo/Desktop/Multimedia-Computing-Project/openFrameworks/libs/openFrameworks/utils/ofConstants.h \
+  ../../../../libs/glew/include/GL/glew.h \
+  ../../../../libs/tess2/include/tesselator.h \
+  /Users/diogo/Desktop/Multimedia-Computing-Project/openFrameworks/libs/openFrameworks/events/ofEvents.h \
+  ../../../../libs/openFrameworks/events/ofEventUtils.h \
+  ../../../../libs/openFrameworks/events/ofEvent.h \
+  /Users/diogo/Desktop/Multimedia-Computing-Project/openFrameworks/libs/openFrameworks/utils/ofTimer.h \
+  ../../../../libs/openFrameworks/utils/ofConstants.h \
+  ../../../../libs/openFrameworks/utils/ofUtils.h \
+  ../../../../libs/utf8/include/utf8.h \
+  ../../../../libs/utf8/include/utf8/checked.h \
+  ../../../../libs/utf8/include/utf8/core.h \
+  ../../../../libs/utf8/include/utf8/unchecked.h \
+  /Users/diogo/Desktop/Multimedia-Computing-Project/openFrameworks/libs/openFrameworks/utils/ofFpsCounter.h \
+  ../../../../libs/glm/include/glm/vec2.hpp \
+  ../../../../libs/glm/include/glm/detail/type_vec2.hpp \
+  ../../../../libs/glm/include/glm/detail/type_vec.hpp \
+  ../../../../libs/glm/include/glm/detail/precision.hpp \
+  ../../../../libs/glm/include/glm/detail/setup.hpp \
+  ../../../../libs/glm/include/glm/detail/../simd/platform.h \
+  ../../../../libs/glm/include/glm/detail/type_int.hpp \
+  ../../../../libs/glm/include/glm/detail/type_vec2.inl \
+  ../../../../libs/openFrameworks/app/ofWindowSettings.h \
+  ../../../../libs/openFrameworks/app/ofAppBaseWindow.h \
+  ../../../../libs/openFrameworks/app/ofBaseApp.h \
+  /Users/diogo/Desktop/Multimedia-Computing-Project/openFrameworks/libs/openFrameworks/sound/ofSoundBaseTypes.h \
+  ../../../../libs/openFrameworks/app/ofAppGLFWWindow.h \
+  /Users/diogo/Desktop/Multimedia-Computing-Project/openFrameworks/libs/openFrameworks/types/ofRectangle.h \
+  ../../../../libs/glm/include/glm/vec3.hpp \
+  ../../../../libs/glm/include/glm/detail/type_vec3.hpp \
+  ../../../../libs/glm/include/glm/detail/type_vec3.inl

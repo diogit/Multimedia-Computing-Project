@@ -1,0 +1,146 @@
+<METADATA>
+    <TAGS>
+        <TAG>tag</TAG>
+    </TAGS>
+    <LUMINANCE>209</LUMINANCE>
+    <COLOUR RED="203" GREEN="210" BLUE="208" />
+    <FACES>0.046793763</FACES>
+    <EDGES>
+        <HORIZONTAL MEAN="0.000677" STDDEV="10.273238" />
+        <VERTICAL MEAN="0.000321" STDDEV="7.750050" />
+        <FORTYFIVEDEGREES MEAN="0.000009" STDDEV="6.973945" />
+        <HUNDREDTHIRTYFIVEDEGREES MEAN="0.000010" STDDEV="6.768018" />
+        <NODIRECTION MEAN="0.000244" STDDEV="6.002356" />
+    </EDGES>
+    <TEXTURES>
+        <TEXTURE>
+            <MEAN>0.007543403</MEAN>
+            <STDDEV>144.215835571</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.990733504</MEAN>
+            <STDDEV>252.870605469</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.988745689</MEAN>
+            <STDDEV>252.580154419</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.985902786</MEAN>
+            <STDDEV>252.213607788</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.010182291</MEAN>
+            <STDDEV>144.459945679</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.987152755</MEAN>
+            <STDDEV>252.453689575</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.983932316</MEAN>
+            <STDDEV>251.988265991</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.980425358</MEAN>
+            <STDDEV>251.533142090</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.008567709</MEAN>
+            <STDDEV>144.320663452</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.990755200</MEAN>
+            <STDDEV>252.873626709</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.988094628</MEAN>
+            <STDDEV>252.505523682</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.986801207</MEAN>
+            <STDDEV>252.335067749</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.006888021</MEAN>
+            <STDDEV>144.185150146</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.990117192</MEAN>
+            <STDDEV>252.791839600</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.987552106</MEAN>
+            <STDDEV>252.444519043</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.985794246</MEAN>
+            <STDDEV>252.208465576</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.006970486</MEAN>
+            <STDDEV>144.147506714</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.990798593</MEAN>
+            <STDDEV>252.891387939</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.989535570</MEAN>
+            <STDDEV>252.685333252</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.987374127</MEAN>
+            <STDDEV>252.405593872</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.005946181</MEAN>
+            <STDDEV>144.088867188</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.991532147</MEAN>
+            <STDDEV>252.975173950</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.989804685</MEAN>
+            <STDDEV>252.718444824</STDDEV>
+        </TEXTURE>
+        <TEXTURE>
+            <MEAN>0.988845468</MEAN>
+            <STDDEV>252.594680786</STDDEV>
+        </TEXTURE>
+    </TEXTURES>
+    <RHYTHMS>
+        <RHYTHM FRAME="67">
+            <VALUE>374.000000000</VALUE>
+        </RHYTHM>
+        <RHYTHM FRAME="69">
+            <VALUE>368.000000000</VALUE>
+        </RHYTHM>
+        <RHYTHM FRAME="63">
+            <VALUE>357.000000000</VALUE>
+        </RHYTHM>
+        <RHYTHM FRAME="61">
+            <VALUE>355.000000000</VALUE>
+        </RHYTHM>
+        <RHYTHM FRAME="94">
+            <VALUE>337.000000000</VALUE>
+        </RHYTHM>
+        <RHYTHM FRAME="65">
+            <VALUE>337.000000000</VALUE>
+        </RHYTHM>
+        <RHYTHM FRAME="320">
+            <VALUE>334.000000000</VALUE>
+        </RHYTHM>
+        <RHYTHM FRAME="0">
+            <VALUE>317.000000000</VALUE>
+        </RHYTHM>
+        <RHYTHM FRAME="1">
+            <VALUE>316.000000000</VALUE>
+        </RHYTHM>
+        <RHYTHM FRAME="2">
+            <VALUE>315.000000000</VALUE>
+        </RHYTHM>
+    </RHYTHMS>
+    <OBJECT>0.730290890</OBJECT>
+</METADATA>
