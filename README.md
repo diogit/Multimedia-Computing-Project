@@ -32,3 +32,6 @@ openFrameworks/apps/myApps/SemiAutomaticInfiniteEntertainmentSystem/ -> applicat
 
 * The application was made to run on macOS Mojave version 10.14.6 (18G95) and the audio detection feature will not work on other operating systems.
 * The application must be compiled before being able run on other operating systems.
+
+### Copyrights
+I do not own any of the videos used in the project. All Rights Reserved to BlockBerryCreative.
